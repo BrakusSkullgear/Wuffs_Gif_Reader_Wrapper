@@ -1,0 +1,1 @@
+# Wuffs_Gif_Reader_Wrapper
